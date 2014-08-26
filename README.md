@@ -1,9 +1,20 @@
-<h1>
-	ALMS Quiz APP
-</h1>
-	<blockquote>
-		A Seperate Standalone app for ALMS
-	</blockquote>
-	<p>
-	Install using <code>npm install</code> and run using <code>npm start</code>
-	</p>
+# ALMS Quiz App
+
+> ### A seperate application for Quiz and Exam Implementations for ALMS
+
+## Installation
+
+### Prerequisites
+* `bower` is installed
+* `npm` is installed
+* `yo` (yeoman) is installed globally
+* `generator-angular` is installed
+
+
+### Building
+
+run `bower install` in the directory
+
+### Running / Starting the Project Server
+
+run `grunt serve` in the directory
