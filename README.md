@@ -2,6 +2,7 @@
 
 > ### A seperate application for Quiz and Exam Implementations for ALMS
 
+![Als Logo](http://1.bp.blogspot.com/-pP2iQa3VjCU/TWiO9Wj5bwI/AAAAAAAABiw/aGrBPlGy5G8/s1600/als.jpg)
 ## Installation
 
 ### Prerequisites
