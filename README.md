@@ -18,3 +18,6 @@ run `bower install` in the directory
 ### Running / Starting the Project Server
 
 run `grunt serve` in the directory
+
+### Conclusions
+
